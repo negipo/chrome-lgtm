@@ -1,0 +1,21 @@
+{
+  "name": "LGTMify",
+  "version": "0.1",
+  "description": "Copy animated gif url with LGTM.",
+  "permissions" : [
+    "contextMenus",
+    "clipboardWrite",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "icons": {
+    "16": "lgtmify_16.png",
+    "48": "lgtmify_48.png",
+    "128": "lgtmify_128.png"
+  },
+  "background": {
+    "page": "background.html"
+  },
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self'; object-src 'self'"
+}
