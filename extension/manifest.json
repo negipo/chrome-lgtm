@@ -1,6 +1,6 @@
 {
   "name": "LGTM with Anime",
-  "version": "0.4",
+  "version": "0.5",
   "description": "Copy animated gif url with adding LGTM.",
   "permissions" : [
     "contextMenus",

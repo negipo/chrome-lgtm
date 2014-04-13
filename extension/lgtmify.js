@@ -10,7 +10,7 @@ function imageHandler(info, tab) {
 }
 
 function imageWithMarkdownHandler(info, tab) {
-  copy('![LGTM](http://lgtm.herokuapp.com/' + info.srcUrl + ')');
+  copy('[![LGTM](' + info.srcUrl + ')](http://lgtm.herokuapp.com/)');
 }
 
 chrome.contextMenus.create({
