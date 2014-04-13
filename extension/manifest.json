@@ -1,7 +1,7 @@
 {
-  "name": "LGTMify",
-  "version": "0.2",
-  "description": "Copy animated gif url with LGTM.",
+  "name": "LGTM with Anime",
+  "version": "0.3",
+  "description": "Copy animated gif url with adding LGTM.",
   "permissions" : [
     "contextMenus",
     "clipboardWrite",

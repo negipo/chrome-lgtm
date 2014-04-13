@@ -1,6 +1,6 @@
-# Chrome LGTMify extension
+# LGTM with Anime Chrome Extension
 
-- Using [LGTM](http://lgtm.herokuapp.com/)
+- Using [LGTM](http://lgtm.herokuapp.com/) web app
 
 # Installation
 
