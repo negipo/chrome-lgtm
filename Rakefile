@@ -1,6 +1,6 @@
 desc 'Build mouneroyo'
 task :build => 'build:all'
-EXTENSION_URL = 'https://chrome.google.com/webstore/detail/lgtmify/nbbfoappojcjaihpopkiekdleojmmffe?hl=ja'
+EXTENSION_URL = 'https://chrome.google.com/webstore/developer/edit/nbbfoappojcjaihpopkiekdleojmmffe?hl=ja'
 
 namespace :build do
   task :all => [ :zip, :done ]

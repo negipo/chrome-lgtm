@@ -1,6 +1,6 @@
 {
   "name": "LGTMify",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Copy animated gif url with LGTM.",
   "permissions" : [
     "contextMenus",
