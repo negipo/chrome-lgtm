@@ -13,6 +13,6 @@ namespace :build do
   desc 'print upload url'
   task :done do
     puts "Upload extension.zip to #{EXTENSION_URL}"
-    sh "echo '#{EXTENSION_URL}' | pbcopy"
+    sh "open '#{EXTENSION_URL}'"
   end
 end
